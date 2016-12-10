@@ -6,3 +6,4 @@
 Creating a new branch is quick AND simple.
 using --no-ff to merge a branch.
 test --no-ff and fast forward 
+test stash.
